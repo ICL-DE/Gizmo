@@ -2,7 +2,7 @@
 
 ### Introduction
 
-* [Linux (Bash) commands cheat sheet](../Introductory_Material/Cheatsheet_bash_Linux.md)
+* [Linux (Bash) commands cheat sheet](../Introductory_Material/Cheat_sheet_bash_Linux.md)
 
 ### Lab Session 1 (11 Oct 2017)
 
@@ -12,14 +12,14 @@
 
 ### Lab Session 2 (18 Oct 2017)
 
-* [RPi GPIOzero](../Chapter_2/RPi_GPIO_intro.md)
-* [Warming up in Arduino](../Chapter_3/Arduino_intro.md)
-* [RPi & Arduino](../Chapter_4/RPi_to_Arduino.md)
+* RPi GPIOzero
+* Warming up in Arduino
+* RPi & Arduino
 
 ### Lab Session 3 (25 Oct 2017)
 
- * [Sensors (Digital, ADC, LEDs, etc)](../Chapter_6/Sensors)
- * [Actuators (Motor Driver, ADC, etc)](../Chapter_7/Actuators)
+ * Sensors (Digital, ADC, LEDs, etc)
+ * Actuators (Motor Driver, ADC, etc)
 
 ### Lab Session 4 (1 Nov 2017)
 
@@ -45,5 +45,5 @@
 * [RPi GPIO: Motor HAT](../SupplementaryMaterial/RPi_GPIO_MotorHat.md)
 * [Screen Cheatsheet](../SupplementaryMaterial/Screen_cheatsheet.md)
 * [Github Cheatsheet](../SupplementaryMaterial/git-cheat-sheet-education.pdf)
-* [Markdown Cheatsheet](../SupplementaryMaterial/Markdown-cheatsheet.md)
+* [Markdown Cheatsheet](../SupplementaryMaterial/Markdown_cheatsheet.md)
 * [Links](../SupplementaryMaterial/Links)

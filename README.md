@@ -11,40 +11,39 @@ $git clone https://github.com/ICL-DE/Gizmo.git
 
 #### Introductory Material
 
-* [Linux (Bash) commands cheat sheet](Introductory_Material/Cheatsheet_bash_Linux.md)
+* [Linux (Bash) commands cheat sheet](Introductory_Material/Cheat_sheet_bash_Linux.md)
 * [Introduction to Github](SupplementaryMaterial/Links.md/#git-related)
 
 #### Chapter 1: Basic Electronics and Programming
 
-* [Basic electronics](..)
-[//]: # (TODO: get basic electronics notes from Andy)
+* Basic electronics
 * [Warming up in Python](Chapter_1/Python_warmup.md)
 
 
 #### Chapter 2: Raspberry Pi
 
 * [Raspberry Pi set up](Chapter_2/RPi_setup.md)
-* [RPi GPIOzero](Chapter_2/RPi_GPIO_intro.md)
+* RPi GPIOzero
 
 #### Chapter 3: Arduino
 
-* [Warming up in Arduino](Chapter_3/Arduino_intro.md)
+* Warming up in Arduino
 
 #### Chapter 4: Arduino + Raspberry Pi Combo!
 
-* [RPi & Arduino](Chapter_4/RPi_to_Arduino.md)
+* RPi & Arduino
 
 #### Chapter 5: Remote Connection
 
-* [Remote connection to your Raspberry Pi](Chapter_5/Remote_Rpi.md)
+* Remote connection to your Raspberry Pi
 
 #### Chapter 6: Sensors
 
- * [ADC](Chapter_6/Sensors)
-
+ * ADC
+ 
 #### Chapter 7: Making things move
 
-* [Actuators](Chapter_7/Actuators)
+* Actuators
 
 
 #### Supplementary Material

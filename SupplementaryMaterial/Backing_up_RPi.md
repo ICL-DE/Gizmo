@@ -1,4 +1,4 @@
-#Backup RPi Image
+# Backup RPi Image
 
 It is useful and advisable to backup a working copy of your RPi image. For example, make a backup copy after setting up WiFi. The next time the WiFi is not working, you can reformat the SD card and reinsert this backup copy to revert back to previous version. After this, your RPi will connect to the WiFi right away like before. Here are the steps:
 

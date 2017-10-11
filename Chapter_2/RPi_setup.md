@@ -30,48 +30,41 @@ At first we will setup the RPi using peripherals. Each team should get the follo
   * 1 Screwdriver
   * 1 Pair of Pliers
 
-[//]: # (TODO: add image)
+![Provided Material](../img/provided-material.jpg)
 
-<img src="../img/" alt="provided-material" style="width: 400px;block; align: left;
+1. Attach the Raspberry Pi to the wooden plate, first bolt the 4 M2.5 Standoffs to the plate and then attach the RPi to the plate with 4 more bolts (don't tighten them too much):
 
-1. Attach the Raspberry Pi to the wooden plate with 4 M2.5 Standoffs and 8 M2.5 bolts:
-[//]: # (TODO: add image)
+<img src="../img/assembly-rspi.jpg" alt="pheriperals-setup" style="width: 400px;"/>
 
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+2. Repeat the same operation with the Arduino using the M3 spacers, nuts and bolts. You will be able only to secure it with three bolts, remember not to tighten them too much:
 
-2. Repeat the same operation with the Arduino using 4 M3 spacers, 4 M3 nuts and 3 M3 bolts.
-[//]: # (TODO: add image)
-
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+<img src="../img/assembly-arduino.jpg" alt="pheriperals-setup" style="width: 400px;"/>
 
 3. To attach the breadboard to the wooden plate, peel off the back of it to expose the adhesive strip and glue it to the wooden plate:
-[//]: # (TODO: add image)
 
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+<img src="../img/assembly-sticky_back.JPG" alt="pheriperals-setup" style="width: 400px;"/>
+
+![Full assembly](../img/assembly-final.JPG)
 
 4. Insert the micro-SD card in the back of the RPi, like so:
-[//]: # (TODO: add image)
 
-<img src="../img/" alt="SD-slot" style="width: 400px;"/>
+<img src="../img/assembly-rpi_sd.JPG" alt="SD-slot" style="width: 400px;"/>
 
 5. Connect the touchscreen to the RPi, connecting it to the pins and with the HDMI plug, like so:
-[//]: # (TODO: add image)
 
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+<img src="../img/assembly-screen.jpg" alt="pheriperals-setup" style="width: 400px;"/>
 
 6. Connect the keyboard with the USB.
-[//]: # (TODO: add image)
 
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+![Keyboard](../img/assembly-keyboard.JPG)
 
 7. Using the power cable, power up the RPi and the screen:
-[//]: # (TODO: add image)
 
-<img src="../img/" alt="pheriperals-setup" style="width: 400px;"/>
+![Power](../img/assembly-power.JPG)
 
 8. The RPi will start the setup, if the screen doesn't illuminate check that it is on.
 
-**Note:** The SD we have provided has [NOOBS](https://www.raspberrypi.org/downloads/noobs/) with the [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) already installed. We have also added the drivers for the touchscreen. [Here] (https://www.waveshare.com/wiki/5inch_HDMI_LCD) you can find additional steps to modify the configuration of the touchscreen.
+**Note:** The SD we have provided has [NOOBS](https://www.raspberrypi.org/downloads/noobs/) with the [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) already installed. We have also added the drivers for the touchscreen. [Here](https://www.waveshare.com/wiki/5inch_HDMI_LCD) you can find additional steps to modify the configuration of the touchscreen.
 
 ## System setup for Raspberry Pi
 
@@ -106,7 +99,7 @@ And then __English (UK)__:
 
 Then we can choose the default options that the menu is prompting by pressing enter:
 
-<img src="../img/keyboard-layout.png" alt="localisation-options" style="width: 400px; "/>
+<img src="../img/default-layout.png" alt="localisation-options" style="width: 400px; "/>
 
 <img src="../img/no-compose.png" alt="localisation-options" style="width: 400px; "/>
 
@@ -292,3 +285,6 @@ sudo pip install --upgrade pip
 ```
 
 We suggest that after this lesson you back up the image of your RPi at home to have a copy af this . In order to do so we have prepared a [guide](/SupplementaryMaterial/BackingUpRPi/BackingUpRPi.md).
+
+
+#### [Next Step](../Chapter_5/Remote_Rpi.md)

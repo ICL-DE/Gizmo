@@ -72,6 +72,10 @@ You will see on your laptop's terminal that now you are user pi. You are connect
 
 <small>To manage remote terminal sessions we suggest you use Screen, check out the tutorial [here](../SupplementaryMaterial/Screen.md).</small>
 
+o know more about more advance details of how connect remotely go to the [advanced guide](SupplementaryMaterial/Advanced_remote_functionalities.md).
+
+#### [Next Step](../Chapter_1/Python_warmup.md)
+
 ## Accessing from your computer (Windows)
 
 If your computer operative  system is Windows, to access remotely you will need to install PuTTY, which  is a free implementation of SSH and Telnet for Windows and Unix platforms.
@@ -104,10 +108,12 @@ If your computer operative  system is Windows, to access remotely you will need 
 
 6. When asked for username and password, please use your RPi username and password to log-in. (Please note, this is not weaved username and password).
 
-<img src="../img/pi_login_windows.png" alt="remot33" style="width: 400px;"/>
+<img src="../img/pi_login_windows.PNG" alt="remot33" style="width: 400px;"/>
 
 To exit your putty session, type "exit" and enter.
 
 <small>To manage remote terminal sessions we suggest you use Screen, check out the tutorial [here](../SupplementaryMaterial/Screen.md).</small>
 
-To know more about more advance details of how connect remotely go to the [advanced guide](Advance_remoteconection.md).
+To know more about more advance details of how connect remotely go to the [advanced guide](SupplementaryMaterial/Advanced_remote_functionalities.md).
+
+#### [Next Step](../Chapter_1/Python_warmup.md)
